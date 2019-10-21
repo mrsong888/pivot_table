@@ -54,5 +54,5 @@ text-unidecode==1.1
 tox==2.9.1
 urllib3==1.22
 virtualenv==15.1.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wrapt==1.10.11
