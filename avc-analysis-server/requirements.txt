@@ -37,7 +37,7 @@ numpy==1.14.0
 pandas==0.22.0
 passlib==1.7.1
 pluggy==0.6.0
-py==1.5.2
+py==1.10.0
 pycparser==2.18
 PyJWT==1.5.3
 pytest==3.4.0
