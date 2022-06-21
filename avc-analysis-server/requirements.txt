@@ -33,7 +33,7 @@ MarkupSafe==1.0
 marshmallow==2.15.0
 marshmallow-sqlalchemy==0.13.2
 mccabe==0.6.1
-numpy==1.14.0
+numpy==1.22.0
 pandas==0.22.0
 passlib==1.7.1
 pluggy==0.6.0
